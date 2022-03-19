@@ -12,8 +12,8 @@ int main(){
 	cout<<"3. Perkalian"<<endl;
 	cout<<"4. Pembagian"<<endl;
 	cout<<"Masukkan Pilihan";cin>>pil;
-	cout<<"Bil1 = ";cin>>bil1;
-	cout<<"Bil2 = ";cin>>bil2;
+	cout<<"Masukkan bilangan 1 = ";cin>>bil1;
+	cout<<"Masukkan bilangan 2 = ";cin>>bil2;
 	
 	if(pil==1){
 		hasil = bil1 + bil2;
